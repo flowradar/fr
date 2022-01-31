@@ -1,6 +1,6 @@
 const search = instantsearch({
-  indexName: 'FlowRadar',
-  searchClient: algoliasearch('VTLMCQPKUX', '3a111dafa7eeeaee573c29dcf63a289e'),
+  indexName: 'plants',
+  searchClient: algoliasearch('AAVKO2PL57', '9f8d6abc778effec3a2a465a5bc2218f'),
   routing: true
 });
 
